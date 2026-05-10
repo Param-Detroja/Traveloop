@@ -1,2 +1,0 @@
-# Traveloop
-odoo 
